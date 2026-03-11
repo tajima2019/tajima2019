@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/tajima2019/tajima2019/main/profile-summary-card-output/slateorange/4-productive-time.svg)
-```
-
-    
